@@ -1,6 +1,6 @@
 # MSA 探月学校 博雅语文课速通作业prompt
 
-> 我开源，我大义。花了一个月时间炼的，50h
+> 一个月时间炼的，约20h
 
 ```txt
 <system_instruction>
