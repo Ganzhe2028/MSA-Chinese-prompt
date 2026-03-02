@@ -1,6 +1,6 @@
 # MSA 探月学校 博雅语文课速通作业prompt
 
-> 一个月时间炼的，约20h
+> 一个月时间炼的。个人花费约20h-30h。
 
 ```txt
 <system_instruction>
